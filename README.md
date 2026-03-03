@@ -1,16 +1,30 @@
-## Hi there 👋
+Ali Hamza
 
-<!--
-**Hamzaa6296/Hamzaa6296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MERN Stack Developer | 3+ Years of Experience
 
-Here are some ideas to get you started:
+I build scalable, secure, and high-performance web applications using the MERN stack. Focused on clean architecture, optimized backend systems, and responsive user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+
+Frontend: React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+Backend: Node.js, Express.js, REST APIs, JWT Authentication
+Database: MongoDB, Mongoose
+Tools: Git, GitHub, Postman, VS Code, Deployment Platforms
+
+🚀 What I Do
+
+Develop full-stack MERN applications
+
+Build secure and scalable RESTful APIs
+
+Design optimized database structures
+
+Implement authentication & authorization systems
+
+Convert UI/UX designs into responsive interfaces
+
+📌 Featured Projects
+
+Apexsim Trading Web Application (full responsive on all devices)
+Tech: MERN Stack
+Live: https://apexsim-two.vercel.app/
