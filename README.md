@@ -1,39 +1,85 @@
-Ali Hamza
+# Ali Hamza
 
-Hello and welcome to my GitHub profile.
+## 👋 Welcome to my GitHub
 
-MERN Stack Developer | 3+ Years of Professional Experience
+**Frontend-Focused MERN Stack Developer | React & Next.js Specialist**
 
-I am a results-driven MERN Stack Developer with over three years of hands-on experience building scalable, secure, and performance-oriented web applications. I specialize in designing clean backend architectures, developing RESTful APIs, and creating responsive, user-focused frontend interfaces.
+I build fast, scalable, and user-focused web applications with a strong emphasis on **clean UI, performance, and real-world usability**.
 
-My focus is on writing maintainable code, implementing efficient database structures, and delivering solutions aligned with real business requirements. I continuously refine my skills to stay aligned with modern development standards and best practices.
+With 3+ years of hands-on experience, I specialize in crafting modern frontend experiences while supporting them with solid backend architecture.
 
-💻 Tech Stack
+---
 
-Frontend: React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+## 💡 What I Bring
 
-Backend: Node.js, Express.js, RESTful API Development, JWT Authentication, Middleware Architecture
+- Build responsive, high-performance web applications using **React & Next.js**
+- Develop secure and scalable **REST APIs**
+- Design clean and optimized **MongoDB database structures**
+- Implement **authentication & role-based access control**
+- Translate UI/UX designs into **production-ready interfaces**
+- Refactor and optimize existing codebases for better performance
 
-Database: MongoDB, Mongoose, Schema Design & Query Optimization
+---
 
-Tools & Workflow: Git, GitHub, Postman, VS Code, Deployment Platforms (Vercel, Render)
+## 🛠 Tech Stack
 
-🚀 What I Do
+**Frontend**
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- HTML5, CSS3
+- Tailwind CSS
 
-Develop full-stack web applications using the MERN stack
+**Backend**
+- Node.js
+- Express.js
+- REST API Development
+- JWT Authentication
+- Middleware Architecture
 
-Architect and build secure, scalable RESTful APIs
+**Database**
+- MongoDB
+- Mongoose
+- Schema Design & Query Optimization
 
-Design optimized and normalized database schemas
+**Tools & Workflow**
+- Git & GitHub
+- Postman
+- VS Code
+- Vercel, Render
 
-Implement authentication and role-based authorization systems
+---
 
-Translate UI/UX designs into responsive, production-ready interfaces
+## 🚀 Featured Project
 
-Improve performance, refactor codebases, and maintain clean project structure
+### Apexsim Trading Web Application
 
-📌 Featured Project Apexsim Trading Web Application
+A full-featured trading platform built with the MERN stack, designed for performance, scalability, and seamless user experience across all devices.
 
-A fully responsive trading web application built using the MERN stack, optimized for performance and seamless user experience across all devices.
+**Key Highlights:**
+- Fully responsive UI
+- Optimized frontend performance
+- Secure authentication system
+- Clean and scalable architecture
 
-Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js) Live Application:
+🔗 Live Demo: https://apexsim-two.vercel.app/
+
+---
+
+## 📈 Current Focus
+
+- Building **high-performance SaaS dashboards**
+- Improving **Next.js optimization & SEO**
+- Writing cleaner, more maintainable code
+- Exploring **advanced frontend architecture patterns**
+
+---
+
+## 🤝 Let's Connect
+
+I’m open to:
+- Frontend / MERN Stack roles
+- Freelance opportunities
+- Startup collaborations
+
+Feel free to explore my repositories or reach out.
