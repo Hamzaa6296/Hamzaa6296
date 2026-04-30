@@ -1,85 +1,51 @@
 # Ali Hamza
+**Software Engineer · Full-Stack · MERN + NestJS**
 
-## 👋 Welcome to my GitHub
-
-**Frontend-Focused MERN Stack Developer | React & Next.js Specialist**
-
-I build fast, scalable, and user-focused web applications with a strong emphasis on **clean UI, performance, and real-world usability**.
-
-With 3+ years of hands-on experience, I specialize in crafting modern frontend experiences while supporting them with solid backend architecture.
-
----
-
-## 💡 What I Bring
-
-- Build responsive, high-performance web applications using **React & Next.js**
-- Develop secure and scalable **REST APIs**
-- Design clean and optimized **MongoDB database structures**
-- Implement **authentication & role-based access control**
-- Translate UI/UX designs into **production-ready interfaces**
-- Refactor and optimize existing codebases for better performance
+Software engineer with 3+ years of experience building scalable, production-ready web applications. I specialize in full-stack JavaScript development — crafting performant frontends with React and Next.js, robust backends with Node.js, Express, and NestJS, and reliable deployments with modern CI/CD pipelines.
 
 ---
 
 ## 🛠 Tech Stack
 
 **Frontend**
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- HTML5, CSS3
-- Tailwind CSS
+React.js · Next.js · JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · Tailwind CSS
 
 **Backend**
-- Node.js
-- Express.js
-- REST API Development
-- JWT Authentication
-- Middleware Architecture
+Node.js · Express.js · NestJS · REST API Development · JWT Authentication · Middleware Architecture · Role-Based Access Control
 
 **Database**
-- MongoDB
-- Mongoose
-- Schema Design & Query Optimization
+MongoDB · Mongoose · Schema Design · Query Optimization
+
+**DevOps & CI/CD**
+GitHub Actions · Vercel · Render · Docker · Environment Configuration · Automated Deployments
 
 **Tools & Workflow**
-- Git & GitHub
-- Postman
-- VS Code
-- Vercel, Render
+Git & GitHub · Postman · VS Code
 
 ---
 
-## 🚀 Featured Project
+## 💡 What I Do
 
-### Apexsim Trading Web Application
-
-A full-featured trading platform built with the MERN stack, designed for performance, scalability, and seamless user experience across all devices.
-
-**Key Highlights:**
-- Fully responsive UI
-- Optimized frontend performance
-- Secure authentication system
-- Clean and scalable architecture
-
-🔗 Live Demo: https://apexsim-two.vercel.app/
+- Build responsive, high-performance web applications using **React & Next.js**
+- Design and develop scalable **REST APIs** with Express.js and NestJS
+- Architect clean, modular **MongoDB** database structures
+- Implement **authentication**, role-based access control, and secure middleware
+- Set up **CI/CD pipelines** for automated testing and deployment workflows
+- Deploy and maintain applications on **Vercel, Render**, and cloud platforms
+- Translate UI/UX designs into **production-ready interfaces**
 
 ---
 
 ## 📈 Current Focus
 
-- Building **high-performance SaaS dashboards**
+- Building high-performance **SaaS dashboards**
+- Deepening **NestJS architecture patterns** and modular backend design
 - Improving **Next.js optimization & SEO**
-- Writing cleaner, more maintainable code
-- Exploring **advanced frontend architecture patterns**
+- Advancing **DevOps practices** — pipelines, containerization, and monitoring
 
 ---
 
 ## 🤝 Let's Connect
 
-I’m open to:
-- Frontend / MERN Stack roles
-- Freelance opportunities
-- Startup collaborations
-
+Open to **full-time roles**, **freelance opportunities**, and **startup collaborations**.
 Feel free to explore my repositories or reach out.
