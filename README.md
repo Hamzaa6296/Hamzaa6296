@@ -1,7 +1,7 @@
 # Ali Hamza
 **Software Engineer · Full-Stack · MERN**
 
-Software engineer with 3+ years of experience building scalable, production-ready web applications. I specialize in full-stack JavaScript development, crafting performant frontends with React and Next.js, robust backends with Node.js, Express, and NestJS, and reliable deployments with modern CI/CD pipelines.
+Software engineer with two years of experience building scalable, production-ready web applications. I specialize in full-stack JavaScript development, crafting performant frontends with React and Next.js, robust backends with Node.js, Express, and NestJS, and reliable deployments with modern CI/CD pipelines.
 
 ---
 
