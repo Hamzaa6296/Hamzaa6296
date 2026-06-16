@@ -44,8 +44,3 @@ Git & GitHub · Postman · VS Code
 - Advancing **DevOps practices**, pipelines, containerization, and monitoring
 
 ---
-
-## 🤝 Let's Connect
-
-Open to **full-time roles**, **freelance opportunities**, and **startup collaborations**.
-Feel free to explore my repositories or reach out.
