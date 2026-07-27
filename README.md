@@ -1,7 +1,7 @@
 # Ali Hamza
 **Software Engineer · Full-Stack · MERN**
 
-Software engineer with two years of experience building scalable, production-ready web applications. I specialize in full-stack JavaScript development, crafting performant frontends with React and Next.js, robust backends with Node.js, Express, and NestJS, and reliable deployments with modern CI/CD pipelines.
+Software engineer, building scalable, production-ready web applications. I specialize in full-stack JavaScript/TypeScript development, crafting performant frontends with React and Next.js, robust backends with Node.js, Express, and NestJS, and reliable deployments with modern CI/CD pipelines.
 
 ---
 
@@ -33,14 +33,5 @@ Git & GitHub · Postman · VS Code
 - Set up **CI/CD pipelines** for automated testing and deployment workflows
 - Deploy and maintain applications on **Vercel, Render**, and cloud platforms
 - Translate UI/UX designs into **production-ready interfaces**
-
----
-
-## 📈 Current Focus
-
-- Building high-performance **SaaS dashboards**
-- Deepening **NestJS architecture patterns** and modular backend design
-- Improving **Next.js optimization & SEO**
-- Advancing **DevOps practices**, pipelines, containerization, and monitoring
 
 ---
