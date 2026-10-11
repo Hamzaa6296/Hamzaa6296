@@ -83,8 +83,6 @@ Email me at **ali.hamzaaa6296@gmail.com** with three things:
 2. Your target timeline
 3. Your rough budget range
 
-I reply within 24 hours, and the first call is free.
-
 <p align="center">
   <sub>I share progress, lessons, and numbers as I build. Follow along on <a href="https://x.com/AliHamz03340954">X</a>.</sub>
 </p>
